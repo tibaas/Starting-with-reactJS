@@ -33,7 +33,7 @@ function App() {
       },
 
       content: [
-        {type: 'paragraph', content: 'Fala galera'},
+        {type: 'paragraph', content: 'Fala dev'},
         {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare'},
         {type: 'link', content: 'jane.design/doctorcare'},      
       ],
